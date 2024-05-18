@@ -1,0 +1,16 @@
+.button{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  align-content: center;
+  flex-wrap: wrap;
+ align-content: space-evenly !important;
+  
+}
+#btn{
+  height: 4rem;
+  width: 4rem;
+  margin: 0.5rem;
+  border-radius: 4px;
+  
+}

@@ -1,0 +1,14 @@
+.calculator{
+  width:300px;
+  border: 2px solid black;
+  border-radius: 4px;
+  margin-top: 2rem;
+}
+
+
+
+.input{
+  height: 3rem;
+  width: 240px;
+  margin: 30px;
+}
